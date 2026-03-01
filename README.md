@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Rohit Prasad
 **A passionate MERN Developer **
 
-Email Me 👉 ✉️ **rohitprasad8917@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **pp0549353@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** UBER APP
 - 🌱 **I’m currently learning:** MERN STACK
